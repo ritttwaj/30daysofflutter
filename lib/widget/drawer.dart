@@ -7,7 +7,7 @@ class MyDrawer extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // ignore: prefer_const_constructors
-    final imageUrl = "https://media.licdn.com/dms/image/D4D03AQHvvSVbkZ3eag/profile-displayphoto-shrink_400_400/0/1681139715707?e=1692230400&v=beta&t=ElNUOEgEeGhKbLV1yZqHHknh2SMIiWQ7PRmJRFUB3f8";
+    const imageUrl = "https://media.licdn.com/dms/image/D4D03AQHvvSVbkZ3eag/profile-displayphoto-shrink_400_400/0/1681139715707?e=1703116800&v=beta&t=CDkzN93sBYBPrLEGnzHMvIfHwbRw7vziOPHEk67gzB0"; 
     return Drawer(
       child: Container(
         color: Colors.blue,

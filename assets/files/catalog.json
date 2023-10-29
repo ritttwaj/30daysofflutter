@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 12 Pro",
+            "desc": "Apple iPhone 12th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-61183/iphone-12-pro-blue-hero.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Pixel 5",
+            "desc": "Google Pixel phone 5th generation",
+            "price": 699,
+            "color": "#00ac51",
+            "image": "https://s3bo.cashify.in/gpro/uploads/2020/08/03072511/google-pixel-5-front.png?p=gp4sq&s=gp"
+        },
+        {
+            "id": 3,
+            "name": "M1 Macbook Air",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image": "https://m.media-amazon.com/images/I/31+G-o8iK-L._SX342_SY445_.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Playstation 5",
+            "desc": "Sony Playstation 5th generation",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRpOOatHHXI0mH2R9SY4GAHC7DHqNSME6ZXYrCNjarhBK5hWnOe5MM44wfNk2FWunLjkqA_M7hU8GdIGNbeolkkEKLIfgQWozYgullxRSw"
+        },
+        {
+            "id": 5,
+            "name": "Airpods Pro",
+            "desc": "Apple Aipods Pro 1st generation",
+            "price": 200,
+            "color": "#e3e4e9",
+            "image": "https://m.media-amazon.com/images/I/61SUj2aKoEL._SX679_.jpg"
+        },
+        {
+            "id": 6,
+            "name": "iPad Pro",
+            "desc": "Apple iPad Pro 2020 edition",
+            "price": 799,
+            "color": "#f73984",
+            "image": "https://m.media-amazon.com/images/I/41xKYBOs9QL._SY445_SX342_QL70_FMwebp_.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Galaxy S21 Ultra",
+            "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image": "https://rukminim2.flixcart.com/image/416/416/kjvrdzk0/mobile/t/x/3/samsung-galaxy-s21-ultra-sm-g998bzkginu-original-imafzck6uhtqufby.jpeg?q=70"
+        },
+        {
+            "id": 8,
+            "name": "Galaxy S21",
+            "desc": "Samsung Galaxy S21 2021 edition",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://m.media-amazon.com/images/I/81cHpJNr07L._AC_UY327_FMwebp_QL65_.jpg"
+        }
+    ]
+}
