@@ -19,7 +19,7 @@
         {
             "id": 3,
             "name": "M1 Macbook Air",
-            "desc": "Apple Macbook air with apple silicon",
+            "desc": "Apple Macbook air with M1Chip",
             "price": 1099,
             "color": "#e0bfae",
             "image": "https://m.media-amazon.com/images/I/31+G-o8iK-L._SX342_SY445_.jpg"
@@ -51,7 +51,7 @@
         {
             "id": 7,
             "name": "Galaxy S21 Ultra",
-            "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+            "desc": "Samsung Galaxy S21 Ultra 2021 ",
             "price": 1299,
             "color": "#1c1c1c",
             "image": "https://rukminim2.flixcart.com/image/416/416/kjvrdzk0/mobile/t/x/3/samsung-galaxy-s21-ultra-sm-g998bzkginu-original-imafzck6uhtqufby.jpeg?q=70"
