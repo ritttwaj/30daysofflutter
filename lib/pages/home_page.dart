@@ -41,7 +41,7 @@ class _HomePageState extends State<HomePage> {
       
       body: SafeArea(
         child: Container(
-          padding: const EdgeInsets.all(30),
+          padding:  EdgeInsets.all(30),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
@@ -56,6 +56,7 @@ class _HomePageState extends State<HomePage> {
     );  
     return scaffold;
   }
+  
 }
 
 class CatalogHeader extends StatelessWidget {
@@ -71,6 +72,7 @@ class CatalogHeader extends StatelessWidget {
         
           ],);
   }
+   
 }
 
 class Cataloglist extends StatelessWidget {
@@ -107,4 +109,4 @@ class CatalogItem extends StatelessWidget {
       ),
     ).white.rounded.square(100).make().py16();
   }
-}
+} 
